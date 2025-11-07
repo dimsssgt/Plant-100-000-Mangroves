@@ -1,5 +1,5 @@
 # Plant-100-000-Mangroves
-tugas week1
+tugas week1 
 
 Website kampanye penanaman **100.000 pohon mangrove** dengan tampilan modern dan nuansa hijau alami.  
 Proyek ini dibuat sebagai bagian dari tugas desain web menggunakan **HTML dan CSS** tanpa JavaScript,  
